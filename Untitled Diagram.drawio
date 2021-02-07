@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-07T18:33:30.099Z" agent="5.0 (Windows)" etag="MsXG0-F_zg5qHhU0cakt" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-07T21:44:36.270Z" agent="5.0 (Windows)" etag="zSOFNVzqxPnIhYrL7HVv" version="14.2.9" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1422" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -139,7 +139,7 @@
         <mxCell id="GIeMNUpH18VMJX1TjUhp-11" value="Beställningsrad" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="300" width="110" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="GIeMNUpH18VMJX1TjUhp-12" value="1" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="31gcn15Ylly1eSXyBsKH-4" target="GIeMNUpH18VMJX1TjUhp-11">
+        <mxCell id="GIeMNUpH18VMJX1TjUhp-12" value="M" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="31gcn15Ylly1eSXyBsKH-4" target="GIeMNUpH18VMJX1TjUhp-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="370" as="sourcePoint" />
             <mxPoint x="340" y="320" as="targetPoint" />
