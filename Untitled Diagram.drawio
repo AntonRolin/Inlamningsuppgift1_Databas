@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-10T19:19:16.469Z" agent="5.0 (Windows)" etag="wW0iINz_djL5qTqDpEnu" version="14.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-10T19:19:30.621Z" agent="5.0 (Windows)" etag="nSmmlOxKip6vVtTMP8Ae" version="14.3.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2272" dy="1863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -313,7 +313,7 @@
         <mxCell id="oii-Yqn3WKM9fpuZ5nQV-24" value="&lt;div&gt;Produkt&lt;/div&gt;&lt;div&gt;Betyg&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="326.5" y="140" width="93" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oii-Yqn3WKM9fpuZ5nQV-25" value="Get" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="oii-Yqn3WKM9fpuZ5nQV-25" value="&lt;div&gt;Ger&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="152" width="80" height="43" as="geometry" />
         </mxCell>
         <mxCell id="oii-Yqn3WKM9fpuZ5nQV-26" value="1" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oii-Yqn3WKM9fpuZ5nQV-24" target="oii-Yqn3WKM9fpuZ5nQV-25" edge="1">
