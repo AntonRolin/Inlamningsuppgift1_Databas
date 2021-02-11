@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-10T19:19:30.621Z" agent="5.0 (Windows)" etag="nSmmlOxKip6vVtTMP8Ae" version="14.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-11T10:07:48.313Z" agent="5.0 (Windows)" etag="mxilI0XRHlFj2pChEh3f" version="14.3.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2272" dy="1863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -316,7 +316,7 @@
         <mxCell id="oii-Yqn3WKM9fpuZ5nQV-25" value="&lt;div&gt;Ger&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="152" width="80" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="oii-Yqn3WKM9fpuZ5nQV-26" value="1" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oii-Yqn3WKM9fpuZ5nQV-24" target="oii-Yqn3WKM9fpuZ5nQV-25" edge="1">
+        <mxCell id="oii-Yqn3WKM9fpuZ5nQV-26" value="N" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oii-Yqn3WKM9fpuZ5nQV-24" target="oii-Yqn3WKM9fpuZ5nQV-25" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="150" as="sourcePoint" />
             <mxPoint x="460" y="100" as="targetPoint" />
@@ -325,7 +325,7 @@
         <mxCell id="oii-Yqn3WKM9fpuZ5nQV-27" value="Består av" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="333" y="210" width="80" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="oii-Yqn3WKM9fpuZ5nQV-28" value="M" style="endArrow=none;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="UE1st7cNx4EYnicm7Pw2-1" target="oii-Yqn3WKM9fpuZ5nQV-27" edge="1">
+        <mxCell id="oii-Yqn3WKM9fpuZ5nQV-28" value="1" style="endArrow=none;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="UE1st7cNx4EYnicm7Pw2-1" target="oii-Yqn3WKM9fpuZ5nQV-27" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="385" y="266.5" as="sourcePoint" />
             <mxPoint x="380" y="220" as="targetPoint" />
